@@ -1,8 +1,12 @@
-![I am GitHub Readme Generator's creator](https://www.canva.com/design/DAEgPurwb5A/RpQPk2a1zYHAOqaYJJ5AyQ/view?utm_content=DAEgPurwb5A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQHjkzcsb_VfdA/profile-displaybackgroundimage-shrink_200_800/0/1622647374939?e=1628121600&v=beta&t=KnVZn3LM3FSIRqMU0CEm_3RbRycMwnFGz5QiOKk_RKw)
 
 ![Profile views](https://gpvc.arturio.dev/ShawonBarman)
+
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=49D3DF&lines=I'm+a+Full-Stack+Web+Developer;I'm+a+Graphic+Designer;I'm+a+Flutter+App+Developer)
+
 <h1 align="center">Hi 👋, I'm Shawon...</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 
 - 🔭 I’m currently working on **Django project**
 
@@ -18,6 +22,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShawonBarman&&show_icons=true&title_color=ffffff&icon_color=E4405F&text_color=35B2A4&bg_color=1A1B27">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawonBarman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawonBarman&layout=compact)](https://github.com/ShawonBarman/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShawonBarman) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShawonBarman) 
+<hr>
+<h2 align='center'><i><a href="https://github.com/ShawonBarman/github-readme-activity-graph">Activity Graph</i></h2>
+<p align="center">
+<a href="https://github.com/ShawonBarman/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ShawonBarman&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
