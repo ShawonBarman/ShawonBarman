@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/ShawonBarman)
 
-### Hello, I am Shawon 👋✌️
+### <h2>Hello, I am Shawon 👋✌️</h2>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=49D3DF&lines=I'm+a+Full-Stack+Web+Developer;I'm+a+Graphic+Designer;I'm+a+Flutter+App+Developer)
 
@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shawonbarman.github.io/myPortfolio/](https://shawonbarman.github.io/myPortfolio/)
 
-- 💬 Ask me about **HTML5,CSS3,Bootstrap,Python,Java,C,C++,or any Technology related Stuff**
+- 💬 Ask me about  **<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">,<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">,<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">,<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">,<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">,<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">,<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">,<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">,<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">,<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">, or any Technology related Stuff**
 
 - ⚡ Fun fact **I almost spend 3 hours Watching Movies and 3 hours playing PUBG MOBILE game Everyday**
 
