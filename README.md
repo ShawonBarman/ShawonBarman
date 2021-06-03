@@ -40,7 +40,7 @@
 </a>
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShawonBarman&theme=radical" alt="ShawonBarman" width="400" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShawonBarman&theme=radical" alt="ShawonBarman" width="600" /></p>
 
 <hr>
 <h2 align='center'><i><a href="https://github.com/ShawonBarman/github-readme-activity-graph">Activity Graph</i></h2>
