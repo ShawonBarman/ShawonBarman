@@ -53,24 +53,24 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ShawonBarman/URI-beginner-level-problem-solution-in-python" title="URI-problem-solution"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=URI-beginner-level-problem-solution-in-python&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ShawonBarman/myPortfolio" title="myPortfolio"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=myPortfolio&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/ShawonBarman/URI-beginner-level-problem-solution-in-python" title="URI-problem-solution"><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=URI-beginner-level-problem-solution-in-python&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ShawonBarman/myPortfolio" title="myPortfolio"><img align="right" height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=myPortfolio&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ShawonBarman/Basic-Python-Projects" title="Basic-Python-Projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=Basic-Python-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/ShawonBarman/Desktop-GUI-App-using-Python" title="Desktop-GUI-App-using-Python"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=Desktop-GUI-App-using-Python&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/ShawonBarman/Basic-Python-Projects" title="Basic-Python-Projects"><img align="left" height="162" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=Basic-Python-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ShawonBarman/Desktop-GUI-App-using-Python" title="Desktop-GUI-App-using-Python"><img align="right" height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=Desktop-GUI-App-using-Python&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ShawonBarman/Emergency-Medicine-and-Doctor-Services-Django-Project" title="Emergency-Medicine-and-Doctor-Services-Django-Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=Emergency-Medicine-and-Doctor-Services-Django-Project&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/ShawonBarman/Emergency-Medicine-and-Doctor-Services-report" title="Emergency-Medicine-and-Doctor-Services-report"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=Emergency-Medicine-and-Doctor-Services-report&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/ShawonBarman/Emergency-Medicine-and-Doctor-Services-Django-Project" title="Emergency-Medicine-and-Doctor-Services-Django-Project"><img align="left" height="162" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=Emergency-Medicine-and-Doctor-Services-Django-Project&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ShawonBarman/Emergency-Medicine-and-Doctor-Services-report" title="Emergency-Medicine-and-Doctor-Services-report"><img align="right" height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=Emergency-Medicine-and-Doctor-Services-report&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ShawonBarman/Employee-Management-System" title="Employee-Management-System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=Employee-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/ShawonBarman/Cricket-key-game" title="Cricket-key-game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=Cricket-key-game&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/ShawonBarman/Employee-Management-System" title="Employee-Management-System"><img align="left" height="162" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=Employee-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ShawonBarman/Cricket-key-game" title="Cricket-key-game"><img align="right" height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=ShawonBarman&repo=Cricket-key-game&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br/>
 <h4 align="center">
   <a href="https://github.com/ShawonBarman?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
