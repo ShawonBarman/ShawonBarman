@@ -4,7 +4,7 @@
 
 ### <h2>Hello, I am *Shawon* 👋✌️</h2>
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=49D3DF&lines=I'm+a+Full-Stack+Web+Developer;I'm+a+Graphic+Designer;I'm+a+Flutter+App+Developer)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=49D3DF&lines=I'm+a+Full-Stack+Web+Developer;I'm+a+Graphic+Designer)
 
 - 🔭 I’m currently working on [Django project](https://github.com/ShawonBarman/Emergency-Medicine-and-Doctor-Services-Django-Project.git)
 
