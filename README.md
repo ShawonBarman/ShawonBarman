@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JAVASCRIPT** and **Machine learning**
 
-- 👯 I’m looking to collaborate on **Problem solving** and **Django project**
+- 👯 I’m looking to collaborate on **competitive programming** and **Django project**
 
 - 🤝 I’m looking for help with **Python for Back-End**
 
