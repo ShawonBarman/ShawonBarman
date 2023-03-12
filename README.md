@@ -1,12 +1,12 @@
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/C5616AQFSB1m3XrLMLQ/profile-displaybackgroundimage-shrink_350_1400/0/1622703083033?e=1680739200&v=beta&t=0HpIOMKkZBOXS4JxdqH4IoVSn7RE36x6Ftf369Ac5js)
 
-![Profile views](https://gpvc.arturio.dev/ShawonBarman)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="ShawonBarman" /> </p>
 
 ### <h1 align="center">Hello, I am *Shawon* 👋✌️</h1>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=49D3DF&lines=I'm+a+Full-Stack+Web+Developer;I'm+a+Programmer)
 
-- 🔭 I’m currently working on [Javascript project](https://github.com/ShawonBarman/MeetYOU-A_Cloud_Based_Meeting_Application)
+- 🔭 I’m currently working on [problem solving](https://github.com/ShawonBarman/beecrowd-problems-solutions.git)
 
 - 🌱 I’m currently learning **JAVASCRIPT** and **Machine learning**
 
@@ -31,6 +31,25 @@
 ### Available On-
 <a href="https://www.facebook.com/shawon.barmon.2"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://mail.google.com/mail/u/1/#inbox?compose=jrjtXDzFfXjMNRksMPWfDtrGncNLgJfVSQmHCgRvTtWXwsDpFjTNSRNZqxSKVpjVQZZJzMhQ"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/ShawonBarman5"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.whatsapp.com/?lang=en"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.linkedin.com/in/shawon-barman-688968176/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/shawon43_official/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.github.com/ShawonBarman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://stackoverflow.com/users/16108239/shawon-barman"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> <a href="https://www.behance.net/freelancershawon"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" /></a>
 
+## {...} My Stack
+
+```json
+{
+   "Proficient": ["Python", "PHP", "Java", "C", "C++", "SQL"],
+   "Familiar with": ["JavaScript", "HTML", "CSS", "Bootstrap"],
+   "Backend": ["Django", "Laravel"],
+   "Database": ["MySql", "MS SQL Server"],
+   "AI framework":["Keras", "Scikit-learn", "Tensorflow"],
+   "Experimenting": ["Django"],
+   "Modules & Library":["Pandas", "Numpy", "Matplotlib & seaborn", "Selenium", "tkinter", "random", "datetime", "etc"],
+                          
+   "Machine Learning Algorithms": ["LinearRegression", "LogisticRegression", "KNeighborsRegressor", "SVR", "DecisionTree", 
+                                    "RandomForest", "SVM", "KNN", "Naive Bayes", "K-means"],
+   
+   "Deep Learning": ["CNN", "Transfer Learning", "Model optimization and quantization"]
+}
+```
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -44,12 +63,4 @@
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=30&margin-h=30&row=2&column=4" alt="ssoad" />
-</p>
-
-<hr>
-<h2 align='center'><i><a href="https://github.com/ShawonBarman/github-readme-activity-graph">Activity Graph</i></h2>
-<p align="center">
-<a href="https://github.com/ShawonBarman/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=ShawonBarman&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
 </p>
