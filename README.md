@@ -1,5 +1,3 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/C5616AQFSB1m3XrLMLQ/profile-displaybackgroundimage-shrink_350_1400/0/1622703083033?e=1698278400&v=beta&t=Jt3SVVhXsH2FSDiFcoBcJUEtpT8AoFlsujGceApeW_s)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="ShawonBarman" /> </p>
 
 ### <h1 align="center">Hello, I am *Shawon* 👋✌️</h1>
