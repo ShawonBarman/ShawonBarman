@@ -21,7 +21,7 @@
 
 </div>
 
-I'm a **Software Engineer** at **TMSEZ** (California-based) with over a year of professional experience building scalable web applications and integrating cutting-edge AI solutions.
+I'm a **Software Engineer** at **TMSEZ** with over a year of professional experience building scalable web applications and integrating cutting-edge AI solutions.
 
 <div align="center">
   
