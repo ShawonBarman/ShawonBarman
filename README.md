@@ -17,22 +17,25 @@
 
 <div align="center">
   
-  ## 👨‍💻 About Me
+  ## 💼 Professional Experience
 
 </div>
 
-```js
-const shawon = {
-  role: "Software Engineer @ TMSEZ",
-  location: "California-based company",
-  experience: "1+ years professional",
-  education: "Computer Science",
-  achievements: "543+ coding challenges solved",
-  research: "2 published papers in ML/DL",
-  passion: "Building innovative solutions with AI",
-  current_focus: "Generative AI, Document AI, OpenAI, Gemini"
-};
-```
+I'm a **Software Engineer** at **TMSEZ** (California-based) with over a year of professional experience building scalable web applications and integrating cutting-edge AI solutions.
+
+<div align="center">
+  
+  ## 🚀 What I'm Up To
+
+</div>
+
+- 🔭 Currently enhancing my skills in **Generative AI** technologies
+- 🌱 Exploring **Google Document AI**, **OpenAI**, and **Gemini**
+- 💡 Building APIs and integrating third-party services
+- 🏆 Solved **543+ challenges** on the Beecrowd Online Judge platform
+- 📝 Published two research papers in **machine learning** and **deep learning**
+
+---
 
 <div align="center">
   
@@ -47,7 +50,6 @@ const shawon = {
 ### 🔥 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -55,7 +57,6 @@ const shawon = {
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -67,14 +68,12 @@ const shawon = {
 ### 🏗️ Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 </td>
 </tr>
@@ -87,7 +86,6 @@ const shawon = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </td>
 <td>
@@ -157,7 +155,7 @@ const shawon = {
   
   <br/>
   
-  ### [👨‍💻 View My Portfolio](https://shawonbarman.github.io/myPortfolio/)
+  ### [👨‍💻 View My Portfolio](https://shawonbarman.netlify.app/)
   
   <br/>
   
